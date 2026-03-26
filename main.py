@@ -27,7 +27,7 @@ def keep_alive():
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "YOUR_TOKEN"
+TOKEN = "8647444509:AAH2aaMPSgZdhzU7U4WEJQEZfDN-h7_zXzE"
 ADMIN_ID = 6589348050
 GROUP_ID = -1003828486913
 
